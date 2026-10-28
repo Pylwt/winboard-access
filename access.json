@@ -1,4 +1,4 @@
 {
- "payload": "{\"v\":1,\"issued\":1793181053923,\"players\":[{\"name\":\"slcapyy_\",\"until\":1793184653919}]}",
- "sig": "IgSi4kgnLJ4esoy3G+p2ZEd3qmkmiqVhyXWh4pNuOqhl8Xatocu/5TXqtWev43JWVNq9Bl/y5kIgswlDeWH/BQ=="
+ "payload": "{\"v\":1,\"issued\":1793181065532,\"players\":[{\"name\":\"slcapyy_\",\"until\":1793184653919,\"locked\":[\"Visual mode\"]}]}",
+ "sig": "rZJS0l1S+CPZJynEbIIP1SF7sZ0jqr3t4K/JJtnBB1BmcRaLCH5CKczbm857lUGkYQ0kOy4todJ9tolWcpb3DQ=="
 }
