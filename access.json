@@ -1,4 +1,4 @@
 {
- "payload": "{\"v\":1,\"issued\":1793185790271,\"players\":[]}",
- "sig": "BTiCSHdTRQ/TTbu7imKrAQGg0kl+v6SffuLsotg0Flabzagdvvsf1ePrSmWdh5SaGSczpxwzM20ztlIm+3/UDg=="
+ "payload": "{\"v\":1,\"issued\":1793185912881,\"players\":[{\"name\":\"varkoume\",\"until\":1793189512878}]}",
+ "sig": "PQOtzshUTYwM9sgW4jriP9OCYcvVN2JRW7SKK2CuEqCiuHhRzuKAUXcL7T7lt+n4Nd75ur/LYUYVqqoj+szPAw=="
 }
