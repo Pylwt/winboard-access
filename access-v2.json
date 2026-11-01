@@ -1,4 +1,4 @@
 {
- "payload": "{\"v\":2,\"issued\":1793561677010,\"minVersion\":\"1.9.2\",\"players\":[]}",
- "sig": "vHSNDmmwAsocnsvLyR7gWycwld3xwOWNe1AqW7ovbB1xeJeKl49ouzgDxzk9AU22DffjN1NlIVXIKJdkZOjoCw=="
+ "payload": "{\"v\":2,\"issued\":1793562397725,\"minVersion\":\"1.9.2\",\"players\":[{\"name\":\"Sclapyy_\",\"until\":1793648797721}]}",
+ "sig": "7MS/Ry4bGj9MCsDWSRQcTaIFqEnYEP5VvKtK7Sd4XI+/UolpGtLfGep/hBV0evpYMyGIapICJGE3XJEGuTbsDA=="
 }
