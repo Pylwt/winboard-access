@@ -1,4 +1,4 @@
 {
- "payload": "{\"v\":1,\"issued\":1793555952347,\"players\":[{\"name\":\"sclapyy_\",\"until\":1793559541829}]}",
- "sig": "0Q0WqHcSO2pvVpPIEgASV+OAEECLsiP2RtRcddICJHEQCdYR60H41nz7nV3+a1LfNpIJTBh9eRm1xcf2CUQiAQ=="
+ "payload": "{\"v\":1,\"issued\":1793555959884,\"players\":[{\"name\":\"sclapyy_\",\"until\":1793559541829,\"locked\":[\"Visual mode\"]}]}",
+ "sig": "34S1/iTKmQpz1weUiMi24xB0FtC7G5b+s7NjwDoz6mOjItzw2PttgvyiFT3bomL6oCY1nsrnSMNLcoSR9OmJAw=="
 }
