@@ -1,4 +1,4 @@
 {
- "payload": "{\"v\":2,\"issued\":1793784306875,\"minVersion\":\"1.9.2\",\"players\":[{\"name\":\"Sclapyy_\",\"until\":1793648797721,\"locked\":[\"Visual mode\"]}]}",
- "sig": "iOwilTz7wWxB3dVDZc0c5z8FYI+sMqXoEFHNTRawUm+9tDGzBM4UlxxENICo+5R6SKnrzUWqivyQf6lE6Z3fBQ=="
+ "payload": "{\"v\":2,\"issued\":1793809152356,\"minVersion\":\"1.9.2\",\"players\":[]}",
+ "sig": "Z9JhjKCpFDSrf3AA2WHRMM/lReznTzdTWNwnJzB7Bj76risIGnjJTAVWmQAU90sfos0HmNIimtgq7dgqVQ3pBA=="
 }
