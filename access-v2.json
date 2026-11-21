@@ -1,4 +1,4 @@
 {
- "payload": "{\"v\":2,\"issued\":1795168930017,\"minVersion\":\"1.9.2\",\"players\":[{\"name\":\"SclapyyTheGoat\",\"until\":1793899159413,\"locked\":[\"Visual mode\"]}]}",
- "sig": "xMNmFcWPBS4Zk5t5mS/jfxgrXauOB+nYaB0Ue5dofW6BnqbcVzj1TdWKrb9PoN0Ww+bfS1Pwk8n39BCsK653AQ=="
+ "payload": "{\"v\":2,\"issued\":1795278066878,\"minVersion\":\"1.9.2\",\"players\":[]}",
+ "sig": "yrJSCOdmQxtbVbQh48esb7/wRhJ3Y5w+3+d7K5dLLmxCejzVtOfvTYyheLJzYOLK36TSWno6TgJrKZxH6WxaBQ=="
 }
